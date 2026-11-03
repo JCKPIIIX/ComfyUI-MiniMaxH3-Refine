@@ -1,0 +1,7 @@
+[project]
+name = "comfyui-minimax-h3-refine"
+version = "0.1.0"
+description = "Raffinement vidéo+audio MiniMax H3 (fl2va) : encode un brouillon en latent AV et construit le conditioning pour un sampler à faible denoise."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
